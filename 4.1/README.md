@@ -24,9 +24,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Wireshark](https://www.wireshark.org/download.html)
-2. Скачанный [файл](protocol.pcapng)
-3. Копия [Шаблона для домашнего задания](https://docs.google.com/document/d/1JpEXp6bRgmOtNbMosYwIjgBwqzbtQoAxsIaS1M1V9r0/edit)
+1. Копия [Шаблона для домашнего задания](https://docs.google.com/document/d/1JpEXp6bRgmOtNbMosYwIjgBwqzbtQoAxsIaS1M1V9r0/edit)
 
 ------
 
