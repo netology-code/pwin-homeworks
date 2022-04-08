@@ -30,7 +30,7 @@
 
 ### Задание 1.
 
-1. Вспомните [задание по SCADA](https://github.com/netology-code/scada-2-homeworks/tree/main/5).
+1. Вспомните [задание по SCADA](https://github.com/netology-code/scada-homeworks/tree/main/4).
 
 2. Какие данные из этого задания следует записывать в БД, а какие в файл?
 
