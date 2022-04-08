@@ -30,9 +30,9 @@
 
 ### Задание 1.
 
-1. Вспомните [задание по SCADA](https://docs.google.com/document/d/14v9o8Pd244N8uIJhSG2zYky3qbecoya7F0UmaJtV38A/edit?usp=sharing) .
+1. Вспомните [задание по SCADA](https://github.com/netology-code/scada-2-homeworks/tree/main/5).
 
-2. Какие данные из этого задания следует записывать в БД, а какие в файл? 
+2. Какие данные из этого задания следует записывать в БД, а какие в файл?
 
 *Приведите ваши рассуждения в свободной форме.*
 
