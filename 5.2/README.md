@@ -22,7 +22,7 @@
 
 1. Установить Virtual box https://www.virtualbox.org/
 2. Загрузить с сайта Microsoft по ссылке https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/  образ виртуальной машины MSEdge on Win10, в качестве виртуальной платформфы выбрать Virtual Box.
-3. Импортировать образ виртуальной машины в VirtualBox
+3. Импортировать образ виртуальной машины в VirtualBox по инстукции https://docs.google.com/presentation/d/18kC6bPCQ6E2ex6Rim7XCQulG0uBxpMUmmZ-3cGg_5zo/edit?usp=sharing
 4. Выполнить задания
 5. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете
 6. Любые вопросы по решению задач задавайте в чате учебной группы
