@@ -13,11 +13,11 @@
 
 ### Чеклист готовности к домашнему заданию
 
-1. Установите последнюю актуальную версию [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads) с официального сайта. 
+1. Установите последнюю актуальную версию [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads) с официального сайта: 
 
 ![image](https://github.com/netology-code/pwin-homeworks/blob/main/Screen%201.png)
 
-2. Установите [плагин ExtensionPack](https://www.virtualbox.org/wiki/Downloads) последней актуальной версии.
+2. Установите [плагин ExtensionPack](https://www.virtualbox.org/wiki/Downloads) последней актуальной версии:
 
 ![image](https://github.com/netology-code/pwin-homeworks/blob/main/Screen%202.png)
 
@@ -36,6 +36,17 @@
 7. Вставьте в соответствующие абзацы вашего документа ссылки на выполненные задания.
 8. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
 9. Любые вопросы по решению задач задавайте в чате учебной группы.
+
+------
+
+### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
+
+1. Google Диск
+2. Google документы
+3. [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+4. [Плагин ExtensionPack](https://www.virtualbox.org/wiki/Downloads)
+5. [Ссылка на образ ОС](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+6. [Шаблон для домашнего задания](https://docs.google.com/document/d/17NMApsPhhf4vsnDDtFg3SyEir1uqEVdPAWIn3KVicIk/edit?usp=sharing)
 
 ------
 
