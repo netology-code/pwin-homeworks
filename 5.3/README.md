@@ -32,7 +32,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. Копия [Шаблона для домашнего задания](https://docs.google.com/document/d/1tZKRdNYuIOEd9J7AZZASu1GD9dGCNjHIJluYVR3Fs8I/edit)
+1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1tZKRdNYuIOEd9J7AZZASu1GD9dGCNjHIJluYVR3Fs8I/edit)
 2. [Работа с реестром Windows](https://ab57.ru/reestr.html)
 3. [Управление службами Windows](https://hetmanrecovery.com/ru/recovery_news/how-do-i-manually-start-and-stop-various-services-in-windows-10.htm)
 4. [Работа с монитором ресурсов](https://remontka.pro/windows-resource-monitor/)
