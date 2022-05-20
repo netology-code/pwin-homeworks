@@ -39,6 +39,8 @@
 5. [Ещё о пользователях и группах](https://itproffi.ru/polzovateli-i-gruppy-v-linux/)
 6. [Настройка сети в Ubuntu](https://help.reg.ru/hc/ru/articles/4408047642513-%D0%9A%D0%B0%D0%BA-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D1%8C-%D0%B2-Ubuntu-16-04)
 7. [Настройка сети из консоли в Ubuntu](https://losst.ru/nastrojka-seti-iz-konsoli-ubuntu)
+8. [Перенаправление потоков ввода-вывода](https://losst.ru/nastrojka-seti-iz-konsoli-ubuntu](https://habr.com/ru/company/ruvds/blog/336320/)
+9. [и ещё не много о перенаправлении потоков](https://selectel.ru/blog/tutorials/linux-redirection/)
 
 ------
 
