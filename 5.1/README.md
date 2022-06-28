@@ -28,7 +28,7 @@
 ### Инструкция к заданию
 
 1. Выполните установку необходимых программных инструментов из **Чеклиста готовности к домашнему заданию**.
-2. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/17NMApsPhhf4vsnDDtFg3SyEir1uqEVdPAWIn3KVicIk/edit?usp=sharing) себе на Google Disk.
+2. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1S9z8d6FjyzZOqCw24D4qw6cJ4fPg0yfW_8E5gHGCtsY/edit?usp=sharing) себе на Google Диск.
 3. В названии файла введите вашу фамилию и имя.
 4. Зайдите в «Настройки доступа» скопированного вами шаблона и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 5. Скопируйте текст задания в свой документ.
@@ -46,7 +46,7 @@
 3. [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 4. [Плагин ExtensionPack](https://www.virtualbox.org/wiki/Downloads)
 5. [Ссылка на образ ОС](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
-6. [Шаблон для домашнего задания](https://docs.google.com/document/d/17NMApsPhhf4vsnDDtFg3SyEir1uqEVdPAWIn3KVicIk/edit?usp=sharing)
+6. [Шаблон для домашнего задания](https://docs.google.com/document/d/1S9z8d6FjyzZOqCw24D4qw6cJ4fPg0yfW_8E5gHGCtsY/edit?usp=sharing)
 
 ------
 
@@ -67,7 +67,7 @@
 
 **Примечание**: пароль для установленной ОС Windows 7 - Passw0rd!
 
-### Задание 2*
+### Задание 2* (необязательное)
 
 1. Экспортируйте вторую виртуальную машину с ОС Windows 10. Образ операционной системы можно будет скачать по [ссылке](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/).
 
@@ -83,7 +83,7 @@
 ### Правила приёма работы
 
 1. Ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
-2. Документ размещён на личном Google Disk.
+2. Документ размещён на личном Google Диске.
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка.
 
 ------
