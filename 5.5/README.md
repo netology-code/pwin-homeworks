@@ -14,7 +14,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1BgLryYuMjCOs7RBF6aHW13ECj9XqFXKH5Rx022xmClo/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1IzFISY5uriOE5H3cdNZgqc-ct4X0b9iakvHuM19WWcc/edit?usp=sharing) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 4. Скопируйте текст задания в свой документ.
@@ -26,7 +26,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1BgLryYuMjCOs7RBF6aHW13ECj9XqFXKH5Rx022xmClo/edit?usp=sharing)
+1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1IzFISY5uriOE5H3cdNZgqc-ct4X0b9iakvHuM19WWcc/edit?usp=sharing)
 2. [Установка Ubuntu на виртуальную машину](https://ithowto.ru/ustanovka-ubuntu-2004-virtualbox.html)
 3. [...ещё одна установка Ubuntu на виртуальную машину](https://nastroyvse.ru/opersys/lix/kak-ustanovit-ubuntu-na-virtualbox.html)
 4. [Про консоль Linux](https://losst.ru/rabota-v-terminale-linux-dlya-nachinayushhih)
