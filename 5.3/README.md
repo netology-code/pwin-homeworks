@@ -18,7 +18,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1tZKRdNYuIOEd9J7AZZASu1GD9dGCNjHIJluYVR3Fs8I/edit) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1WQaDUwftfnwc7A7rZu8RBdQUPMrhfVUZqmV0zFbzMvs/edit?usp=sharing) себе на Google Disk.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 4. Скопируйте текст задания в свой документ.
@@ -32,7 +32,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1tZKRdNYuIOEd9J7AZZASu1GD9dGCNjHIJluYVR3Fs8I/edit)
+1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1WQaDUwftfnwc7A7rZu8RBdQUPMrhfVUZqmV0zFbzMvs/edit?usp=sharing)
 2. [Работа с реестром Windows](https://ab57.ru/reestr.html)
 3. [Управление службами Windows](https://hetmanrecovery.com/ru/recovery_news/how-do-i-manually-start-and-stop-various-services-in-windows-10.htm)
 4. [Работа с монитором ресурсов](https://remontka.pro/windows-resource-monitor/)
