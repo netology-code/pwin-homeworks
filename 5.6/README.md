@@ -18,7 +18,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1kUtWXxbsSzzejtr7GmFbq3L3CWja35iiE-WNekwGlEY/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1abnciQfYA8-nKwxocx9fsEEu1EfEjhVT_8uWZH8djmw/edit?usp=sharing) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 4. Скопируйте текст задания в свой документ.
@@ -32,7 +32,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1kUtWXxbsSzzejtr7GmFbq3L3CWja35iiE-WNekwGlEY/edit?usp=sharing)
+1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1abnciQfYA8-nKwxocx9fsEEu1EfEjhVT_8uWZH8djmw/edit?usp=sharing)
 2. [htop на habr](https://habr.com/ru/post/316806/)
 3. [Инструкция по htop](https://zalinux.ru/?p=3581)
 4. [Про пользователей и группы на официальном сайте Ubuntu](https://help.ubuntu.ru/wiki/%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B)
@@ -88,7 +88,7 @@
 ### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
-2. Документ размещён на личном Google Disk.
+2. Документ размещён на личном Google Диске.
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 ------
