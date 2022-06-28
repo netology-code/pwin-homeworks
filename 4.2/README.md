@@ -15,7 +15,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1hy6qGZRNo9OdcERreXez5moQbO1qKf-g4qLp_SF56Es/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1pwOR5acz5gW0I1u2vrnG_EWK8iRM1mWjpV22xu9ypkk/edit?usp=sharing) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 4. Скопируйте текст задания в свой документ.
@@ -27,7 +27,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. Копия [Шаблона для домашнего задания](https://docs.google.com/document/d/1hy6qGZRNo9OdcERreXez5moQbO1qKf-g4qLp_SF56Es/edit?usp=sharing)
+1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1pwOR5acz5gW0I1u2vrnG_EWK8iRM1mWjpV22xu9ypkk/edit?usp=sharing)
 2. [Установка MySQL на Windows](https://wiki.merionet.ru/servernye-resheniya/12/ustanovka-mysql-servera-na-windows-10/)
 3. [Ещё один вариант установки](https://info-comp.ru/install-mysql-on-windows-10)
 
@@ -70,11 +70,19 @@
 
 ------
 
-### Задание 4 (Сортировка).
+### Задание 4 (Сортировка)
 
 Отсортируйте данные в таблице T1 по скорости в убывающем порядке (от большего значения к меньшему)
 
 *Приведите получившийся SQL-запрос и снимок экрана получившейся выборки*
+
+-----
+
+### Правила приёма работы
+
+1. Ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
+2. Документ размещён на личном Google Диске.
+3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка.
 
 ------
 
