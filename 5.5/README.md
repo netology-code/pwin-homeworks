@@ -36,6 +36,7 @@
 8. [50 основных команд Linux](https://timeweb.com/ru/community/articles/komandy-linux)
 9. [Перенаправление потоков ввода-вывода](https://habr.com/ru/company/ruvds/blog/336320/)
 9. [и ещё немного о перенаправлении потоков](https://selectel.ru/blog/tutorials/linux-redirection/)
+10. [абсолютные и относительные пути. Новичкам прочитать обязательно !!!](https://younglinux.info/bash/cd)
 
 
 ------
