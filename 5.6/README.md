@@ -37,8 +37,9 @@
 3. [Инструкция по htop](https://zalinux.ru/?p=3581)
 4. [Про пользователей и группы на официальном сайте Ubuntu](https://help.ubuntu.ru/wiki/%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B)
 5. [Ещё о пользователях и группах](https://itproffi.ru/polzovateli-i-gruppy-v-linux/)
-6. [Настройка сети в Ubuntu](https://help.reg.ru/hc/ru/articles/4408047642513-%D0%9A%D0%B0%D0%BA-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D1%8C-%D0%B2-Ubuntu-16-04)
-7. [Настройка сети из консоли в Ubuntu](https://losst.ru/nastrojka-seti-iz-konsoli-ubuntu)
+6. [Права доступа к файлам и папкам](https://firstvds.ru/technology/linux-permissions)
+7. [Настройка сети в Ubuntu](https://help.reg.ru/hc/ru/articles/4408047642513-%D0%9A%D0%B0%D0%BA-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D1%8C-%D0%B2-Ubuntu-16-04)
+8. [Настройка сети из консоли в Ubuntu](https://losst.ru/nastrojka-seti-iz-konsoli-ubuntu)
 
 ------
 
