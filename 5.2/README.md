@@ -35,8 +35,21 @@ OS Windows — самая популярная операционная сист
 
 1. Google Диск.
 2. [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
-3. [Образ виртуальной машины](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/).
+3. Образ виртуальной машины.
 4. [Инструкция для импортирования образа виртуальной машины в VirtualBox](https://docs.google.com/document/d/1jNKjOrl0Cm1fyFN0u6281XVEBd1UTAhHtRSnEccjzec/edit?usp=sharing).
+
+<details>
+  <summary> Что делать, если возникают вопросы или сложности по установке и работе с программным обеспечением? (доступно по клику)</summary>
+  
+  
+1. Напишите в чат группы или обратиться к координатору в системе обращений студентов на сайте по [ссылке](netology.ru/profile?modal=support&type=new-ticket)
+
+2. Можете написать о своей проблеме в разделе «Вопросы и ответы» к домашнему заданию
+  
+  ![image](https://github.com/netology-code/pwin-homeworks/blob/homeworks-pae-7/5.1/Q%26A.png)
+    ---
+  
+</details>
 
 ------
 
