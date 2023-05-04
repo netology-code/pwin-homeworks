@@ -15,11 +15,11 @@
 
 1. Установите последнюю актуальную версию [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads) с официального сайта: 
 
-![image](https://github.com/netology-code/pwin-homeworks/blob/pae-10/5.1/3.png)
+![image](https://github.com/netology-code/pwin-homeworks/blob/pwin-17/5.1/3.png)
 
 2. Установите [плагин ExtensionPack](https://www.virtualbox.org/wiki/Downloads) последней актуальной версии:
 
-![image](https://github.com/netology-code/pwin-homeworks/blob/pae-10/5.1/4.png)
+![image](https://github.com/netology-code/pwin-homeworks/blob/pwin-17/5.1/4.png)
 
 **Примечание**: версия ExtensionPack должна совпадать с установленной версией VirtualBox.
 
@@ -73,11 +73,11 @@
   
   1. После перехода на [официальный сайт Microsoft](https://www.microsoft.com/ru-ru/software-download/windows11) найдите на странице пункт "Загрузка образа диска Windows 11 (ISO)". В раскрывающемся списке выберите "Windows 11 (multi-edition ISO)" и нажмите "Скачать"
   
-  ![image](https://github.com/netology-code/pwin-homeworks/blob/pae-10/5.1/1.png)
+  ![image](https://github.com/netology-code/pwin-homeworks/blob/pwin-17/5.1/1.png)
   
   2. В пункте "Выберите язык продукта" выберите необходимый вам язык операционной системы и нажмите "Подтвердить"
   
-  ![image](https://github.com/netology-code/pwin-homeworks/blob/pae-10/5.1/2.png)
+  ![image](https://github.com/netology-code/pwin-homeworks/blob/pwin-17/5.1/2.png)
   
 </details>
 
