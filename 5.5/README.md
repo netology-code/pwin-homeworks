@@ -33,10 +33,8 @@
 4. [Про консоль Linux](https://losst.ru/rabota-v-terminale-linux-dlya-nachinayushhih).
 5. [Также про консоль Linux](https://pingvinus.ru/note/command-line-for-newbies).
 6. [Работа с файлами в Linux](https://losst.ru/komandy-linux-dlya-raboty-s-fajlami).
-7. [И ещё о работе с файлами в Linux](https://selectel.ru/blog/tutorials/files-and-directories-in-linux/).
-8. [50 основных команд Linux](https://timeweb.com/ru/community/articles/komandy-linux).
-9. [Перенаправление потоков ввода-вывода](https://habr.com/ru/company/ruvds/blog/336320/).
-9. [...и ещё немного о перенаправлении потоков](https://selectel.ru/blog/tutorials/linux-redirection/).
+7. [50 основных команд Linux](https://timeweb.com/ru/community/articles/komandy-linux).
+8. [Перенаправление потоков ввода-вывода](https://habr.com/ru/company/ruvds/blog/336320/).
 
 
 ------
