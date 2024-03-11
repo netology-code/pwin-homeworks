@@ -28,7 +28,7 @@
 ### Инструкция к заданию
 
 1. Выполните установку необходимых программных инструментов из **Чеклиста готовности к домашнему заданию**.
-2. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1S9z8d6FjyzZOqCw24D4qw6cJ4fPg0yfW_8E5gHGCtsY/edit?usp=sharing) себе на Google Диск.
+2. Сделайте копию [Шаблона для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/1832/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) себе на Google Диск.
 3. В названии файла введите вашу фамилию и имя.
 4. Зайдите в «Настройки доступа» скопированного вами шаблона и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 5. Скопируйте текст задания в свой документ.
@@ -46,7 +46,7 @@
 3. [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 4. [Плагин ExtensionPack](https://www.virtualbox.org/wiki/Downloads).
 5. [Образ операционной системы](https://www.microsoft.com/ru-ru/software-download/windows11).
-6. [Шаблон для домашнего задания](https://docs.google.com/document/d/1S9z8d6FjyzZOqCw24D4qw6cJ4fPg0yfW_8E5gHGCtsY/edit?usp=sharing).
+6. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/1832/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx).
 
 <details>
   <summary> Что делать, если возникают вопросы или сложности по установке и работе с программным обеспечением? (доступно по клику)</summary>
