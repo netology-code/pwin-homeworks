@@ -15,19 +15,19 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1pwOR5acz5gW0I1u2vrnG_EWK8iRM1mWjpV22xu9ypkk/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1BRoT8hTHqh4abdqGz9SmxGjBMyiA0PPm/edit?usp=sharing&ouid=102992478501855957559&rtpof=true&sd=true) себе на Google Disk.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 4. Скопируйте текст задания в свой документ.
 5. Выполните домашнее задание, запишите ответы.
 6. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
-7. Любые вопросы по решению задач задавайте в чате учебной группы.
+7. Любые вопросы по решению задач можно задать в чате учебной группы, в чате поддержки или в разделе «Вопросы по заданию» в личном кабинете.
 
 ------
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1pwOR5acz5gW0I1u2vrnG_EWK8iRM1mWjpV22xu9ypkk/edit?usp=sharing)
+1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1BRoT8hTHqh4abdqGz9SmxGjBMyiA0PPm/edit?usp=sharing&ouid=102992478501855957559&rtpof=true&sd=true)
 2. [Установка MySQL на Windows](https://wiki.merionet.ru/servernye-resheniya/12/ustanovka-mysql-servera-na-windows-10/)
 3. [Ещё один вариант установки](https://info-comp.ru/install-mysql-on-windows-10)
 
@@ -37,7 +37,7 @@
 
 Основные шаги:
 
-1. Скачайте и распакуйте [файл с заданием](https://drive.google.com/file/d/1ozj7S_yh_JjQhEjbkI2_1XpCDK_Hw2z3/view?usp=sharing).
+1. Скачайте и распакуйте [файл с заданием](https://drive.google.com/file/d/1RoAHWr_rSUiNKTfAEq3Nvq1YeWXqiDCh/view?usp=sharing).
 2. Выполните установку VC_redist.*.exe.
 3. Запустите установку MySQL.
 4. Выберите вариант установки как **Server Only**.
