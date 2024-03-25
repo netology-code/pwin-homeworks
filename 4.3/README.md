@@ -14,7 +14,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1x04Q86Tsckc7V_VIp1_Fn3jp3-eNEWhg1IipFwOxH3M/edit?usp=sharing) себе на Google Диск.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1WNv9DqxbSRqFuGkCiK2SalGarTJri51C/edit?usp=sharing&ouid=102992478501855957559&rtpof=true&sd=true) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 4. Скопируйте текст задания в свой документ.
@@ -26,7 +26,7 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1x04Q86Tsckc7V_VIp1_Fn3jp3-eNEWhg1IipFwOxH3M/edit?usp=sharing)
+1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1WNv9DqxbSRqFuGkCiK2SalGarTJri51C/edit?usp=sharing&ouid=102992478501855957559&rtpof=true&sd=true)
 
 2. [Администрирование MySQL](https://phpclub.ru/mysql/doc/mysql-database-administration.html)
 
@@ -42,7 +42,7 @@
 
 Основные шаги (если этот пункт уже выполнен для прошлого задания, то переходите к заданию 2):
 
-1. Скачайте и распакуйте [файл с заданием](https://drive.google.com/file/d/1ozj7S_yh_JjQhEjbkI2_1XpCDK_Hw2z3/view?usp=sharing).
+1. Скачайте и распакуйте [файл с заданием](https://drive.google.com/file/d/1ajDPlvfggoEhxMHSVy7ClnMoDL7Od87_/view?usp=sharing).
 2. Выполните установку VC_redist.*.exe.
 3. Запустите установку MySQL.
 4. Выберите вариант установки как **Server Only**.
