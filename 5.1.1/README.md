@@ -34,8 +34,6 @@
 2. Информацию о текущей версии ExtensionPack можно найти, если нажать Файл - Инструменты - Менеджер плагинов в главном окне
   
 ![Picture (2)](https://github.com/user-attachments/assets/9d262f40-2b33-42f2-9b4f-51434a0f4e27)
-
-    ---
   
 </details>
 
