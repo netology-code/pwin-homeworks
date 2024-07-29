@@ -16,7 +16,7 @@
 
 1. Установите последнюю актуальную версию [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads) с официального сайта. Выберите соответствующий дистрибутив для вашей операционной системы. 
 
-![Picture](https://github.com/user-attachments/assets/01a0c690-f4d8-488b-b0f2-e63d573a2efc) 
+![image](https://github.com/user-attachments/assets/88b78d7c-8d77-42ed-9904-f1ec1be36204)
 
 2. Установите [плагин ExtensionPack](https://www.virtualbox.org/wiki/Downloads) последней актуальной версии:
 
