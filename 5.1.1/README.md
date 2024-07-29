@@ -20,9 +20,24 @@
 
 2. Установите [плагин ExtensionPack](https://www.virtualbox.org/wiki/Downloads) последней актуальной версии:
 
-![image](https://github.com/netology-code/pwin-homeworks/blob/pwin-17/5.1/4.png)
+![image-1](https://github.com/user-attachments/assets/4c5c7f58-d45c-4b61-84fd-dcc64f12ab58)
 
 3.	Проверьте, совпадает ли версия VirtualBox и ExtensionPack.
+
+<details>
+  <summary> Подсказка (доступно по клику)</summary>
+  
+1. Информацию о текущей версии VirtualBox можно найти, если нажать Справка - О программе в главном окне.
+
+![Picture (1)](https://github.com/user-attachments/assets/422cbc94-af20-4e5e-9dec-a9cbd077e2b4)
+
+2. Информацию о текущей версии ExtensionPack можно найти, если нажать Файл - Инструменты - Менеджер плагинов в главном окне
+  
+![Picture (2)](https://github.com/user-attachments/assets/9d262f40-2b33-42f2-9b4f-51434a0f4e27)
+
+    ---
+  
+</details>
 
 ------
 
