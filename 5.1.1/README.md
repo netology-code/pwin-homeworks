@@ -22,7 +22,7 @@
 
 ![image](https://github.com/netology-code/pwin-homeworks/blob/pwin-17/5.1/4.png)
 
-**Примечание**: версия ExtensionPack должна совпадать с установленной версией VirtualBox.
+3.	Проверьте, совпадает ли версия VirtualBox и ExtensionPack.
 
 ------
 
