@@ -42,7 +42,7 @@
 
 Основные шаги (если этот пункт уже выполнен для прошлого задания, то переходите к заданию 2):
 
-1. Скачайте и распакуйте [файл с заданием](https://drive.google.com/file/d/1ajDPlvfggoEhxMHSVy7ClnMoDL7Od87_/view?usp=sharing).
+1. Скачайте и распакуйте [файл с заданием](https://disk.yandex.ru/d/Emy-jKtuRacpbQ).
 2. Выполните установку VC_redist.*.exe.
 3. Запустите установку MySQL.
 4. Выберите вариант установки как **Server Only**.
