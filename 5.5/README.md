@@ -31,13 +31,12 @@
 ### Инструменты и дополнительные материалы:
 
 1. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/3271/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_Linux_OS__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx).
-2. [Установка Ubuntu на виртуальную машину](https://ithowto.ru/ustanovka-ubuntu-2004-virtualbox.html).
-3. [...ещё одна установка Ubuntu на виртуальную машину](https://nastroyvse.ru/opersys/lix/kak-ustanovit-ubuntu-na-virtualbox.html).
-4. [Про консоль Linux](https://losst.ru/rabota-v-terminale-linux-dlya-nachinayushhih).
-5. [Также про консоль Linux](https://pingvinus.ru/note/command-line-for-newbies).
-6. [Работа с файлами в Linux](https://losst.ru/komandy-linux-dlya-raboty-s-fajlami).
-7. [50 основных команд Linux](https://timeweb.com/ru/community/articles/komandy-linux).
-8. [Перенаправление потоков ввода-вывода](https://habr.com/ru/company/ruvds/blog/336320/).
+2. [Установка Ubuntu на виртуальную машину](https://nastroyvse.ru/opersys/lix/kak-ustanovit-ubuntu-na-virtualbox.html).
+3. [Про консоль Linux](https://losst.ru/rabota-v-terminale-linux-dlya-nachinayushhih).
+4. [Также про консоль Linux](https://pingvinus.ru/note/command-line-for-newbies).
+5. [Работа с файлами в Linux](https://losst.ru/komandy-linux-dlya-raboty-s-fajlami).
+6. [50 основных команд Linux](https://timeweb.com/ru/community/articles/komandy-linux).
+7. [Перенаправление потоков ввода-вывода](https://habr.com/ru/company/ruvds/blog/336320/).
 
 
 ------
