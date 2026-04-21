@@ -36,19 +36,6 @@ OS Windows — самая популярная операционная сист
 2. [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 3. [Образ виртуальной машины](https://disk.yandex.ru/d/Btz0AgJbzI8MuQ)
 
-<details>
-  <summary> Что делать, если возникают вопросы или сложности по установке и работе с программным обеспечением? (доступно по клику)</summary>
-  
-  
-1. Напишите координатору в системе обращений студентов на сайте по [ссылке]([netology.ru/profile?modal=support&type=new-ticket](https://netology.ru/?modal=support&type=new-ticket))
-
-2. Можете написать о своей проблеме в разделе «Вопросы и ответы» к домашнему заданию
-  
-  ![image](https://github.com/netology-code/pwin-homeworks/blob/homeworks-pae-7/5.1/Q%26A.png)
-    ---
-  
-</details>
-
 ------
 
 ### Задание 1
